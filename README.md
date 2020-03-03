@@ -37,6 +37,6 @@ A beginner's guide to utitlize MySQL and Inquirer npm packages for data input an
 ![Alt text](bamazon/assets/images/CLI.png?=raw=true "Command line Interface")
 
 
-(https://raw.github.com/phamjonathan/bamazon/master/bamazon/assets/images/CLI.png
+https://raw.github.com/phamjonathan/bamazon/master/bamazon/assets/images/CLI.png
 
 
