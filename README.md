@@ -40,5 +40,4 @@ A beginner's guide to utitlize MySQL and Inquirer npm packages for data input an
 
 ![Productlist](https://user-images.githubusercontent.com/55514757/75814895-85210a00-5d60-11ea-8b09-d21898208e80.png)
 
-![CLI](https://user-images.githubusercontent.com/55514757/75814911-8b16eb00-5d60-11ea-8f52-fbb685a3d312.png)
-
+![CLI](https://user-images.githubusercontent.com/55514757/75815089-d03b1d00-5d60-11ea-9691-814d04b4731d.png)
