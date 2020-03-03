@@ -34,5 +34,11 @@
 A beginner's guide to utitlize MySQL and Inquirer npm packages for data input and storage to create an Amazon-like storefront.
 
 # Screenshots
+![Schema](https://user-images.githubusercontent.com/55514757/75814882-7fc3bf80-5d60-11ea-8d4a-7dada154f5e7.png)
 
 ![Seeds](https://user-images.githubusercontent.com/55514757/75814681-2b204480-5d60-11ea-8983-24009878a769.png)
+
+![Productlist](https://user-images.githubusercontent.com/55514757/75814895-85210a00-5d60-11ea-8b09-d21898208e80.png)
+
+![CLI](https://user-images.githubusercontent.com/55514757/75814911-8b16eb00-5d60-11ea-8f52-fbb685a3d312.png)
+
