@@ -36,3 +36,4 @@ A beginner's guide to utitlize MySQL and Inquirer npm packages for data input an
 # Screenshots
 ![Alt text](/bamazon/assets/images/Schema.jpg?raw=true "Schema")
 
+https://raw.github.com/phamjonathan/bamazon/master/bamazon/assets/images/Schema.jpg
