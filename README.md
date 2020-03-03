@@ -28,4 +28,11 @@
    * The first should ask them the ID of the product they would like to buy.
    * The second message should ask how many units of the product they would like to buy.
 
-* 
+
+#Motivation
+
+A beginner's guide to utitlize MySQL and Inquirer npm packages for data input and storage to create an Amazon-like storefront.
+
+#Screenshots
+
+
