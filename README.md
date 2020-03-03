@@ -34,10 +34,30 @@
 A beginner's guide to utitlize MySQL and Inquirer npm packages for data input and storage to create an Amazon-like storefront.
 
 # Screenshots
+Use the screenshots below as a reference
+
+## Schema 
+
 ![Schema](https://user-images.githubusercontent.com/55514757/75814882-7fc3bf80-5d60-11ea-8d4a-7dada154f5e7.png)
+
+## Seeds
 
 ![Seeds](https://user-images.githubusercontent.com/55514757/75814681-2b204480-5d60-11ea-8983-24009878a769.png)
 
+## Product List
+
 ![Productlist](https://user-images.githubusercontent.com/55514757/75814895-85210a00-5d60-11ea-8b09-d21898208e80.png)
 
+## Command Line Interface
+
 ![CLI](https://user-images.githubusercontent.com/55514757/75815089-d03b1d00-5d60-11ea-9691-814d04b4731d.png)
+
+
+## Installation & Configuration
+
+In order to run this application you should install the required packages. Run the following installations in your terminal:
+`npm install mysql` and `npm install inquirer`
+
+After installation run `node` to start the application `node bamazoncustomer.js`
+
+
