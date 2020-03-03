@@ -29,10 +29,10 @@
    * The second message should ask how many units of the product they would like to buy.
 
 
-#Motivation
+# Motivation
 
 A beginner's guide to utitlize MySQL and Inquirer npm packages for data input and storage to create an Amazon-like storefront.
 
-#Screenshots
+# Screenshots
 
 
